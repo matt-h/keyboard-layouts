@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="colmak-arch-fonts.svg">
+   sodipodi:docname="colemak-arch-fonts.svg">
   <defs
      id="defs4">
     <symbol
@@ -137,11 +137,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="674.31111"
-     inkscape:cy="231.53014"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="515.61404"
+     inkscape:cy="288.65557"
      inkscape:document-units="px"
-     inkscape:current-layer="g9911"
+     inkscape:current-layer="g9681"
      showgrid="false"
      units="in"
      inkscape:window-width="1918"
@@ -5063,12 +5063,12 @@
        transform="scale(0.99912617,1.0008746)"
        style="font-size:14.9868927px;fill:#000000"
        y="156.50816"
-       x="198.42744"
+       x="194.42393"
        id="text9152">
       <tspan
          id="tspan9154"
          y="156.50816"
-         x="198.42744"
+         x="194.42393"
          style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">@</tspan>
     </text>
     <text
@@ -5099,12 +5099,12 @@
        transform="scale(0.99912617,1.0008746)"
        style="font-size:14.9868927px;fill:#000000"
        y="156.50816"
-       x="401.03116"
+       x="399.02942"
        id="text9164">
       <tspan
          id="tspan9166"
          y="156.50816"
-         x="401.03116"
+         x="399.02942"
          style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">%</tspan>
     </text>
     <text
@@ -5411,12 +5411,12 @@
        transform="scale(0.99912617,1.0008746)"
        style="font-size:14.9868927px;fill:#000000"
        y="176.52132"
-       x="806.24884"
+       x="808.25061"
        id="text9268">
       <tspan
          id="tspan9270"
          y="176.52132"
-         x="806.24884"
+         x="808.25061"
          style="font-variant:normal;font-weight:bold;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">-</tspan>
     </text>
     <text
@@ -5435,12 +5435,12 @@
        transform="scale(0.99912617,1.0008746)"
        style="font-size:14.9868927px;fill:#000000"
        y="156.50816"
-       x="738.70093"
+       x="740.7027"
        id="text9276">
       <tspan
          id="tspan9278"
          y="156.50816"
-         x="738.70093"
+         x="740.7027"
          style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">)</tspan>
     </text>
     <text
@@ -6190,13 +6190,13 @@
     <text
        transform="scale(0.99912617,1.0008746)"
        style="font-size:14.9868927px;display:inline"
-       y="168.32283"
-       x="1453.9628"
+       y="170.32108"
+       x="1451.9611"
        id="text9762">
       <tspan
          id="tspan9764"
-         y="168.32283"
-         x="1453.9628"
+         y="170.32108"
+         x="1451.9611"
          style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">*</tspan>
     </text>
     <text
